@@ -1,4 +1,4 @@
-  <p align="center"><img src="images/borderyouth.jpg" alt="Firebase Main Page" width="120%" /></p><br><br>
+  <p align="center"><img src="images/borderyouth.png" alt="Firebase Main Page" width="120%" /></p>
 
 # Student Management System
 
